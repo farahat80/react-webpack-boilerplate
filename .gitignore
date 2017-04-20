@@ -10,3 +10,6 @@ lib
 # OSX files
 .DS_Store
 .vscode
+
+#coverage
+coverage
