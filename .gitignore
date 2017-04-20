@@ -4,6 +4,9 @@ node_modules
 #dist
 dist
 
+#lib
+lib
+
 # OSX files
 .DS_Store
 .vscode
